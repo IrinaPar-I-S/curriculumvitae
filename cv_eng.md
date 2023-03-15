@@ -1,12 +1,23 @@
-#Irina Parshina
+# Irina Parshina
 
-##smth
+## Main informarion
 
-::: {}
-  ::: {.column width="40%"}
-    table ...
-  :::
-  ::: {.column width="60%"}
-    graph ...
-  :::
-:::
+I am currently looking for the opportunities to develop in the field I am interested in, which is honestly everything connected to languages and computational linguistics.
+
+I have studied a bachelor's degree at the NRU HSE (higher school of Economics) in Moscow, but I had to interrupt my studies due to personal reasons. During that time I have been studying abroad with "Erasmus+". I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding as a course in machine learning or a course of linguistic data analysis.
+As for now, I am studying at the University of Bari on a programme in language mediation and taking side courses in coding and data analysis.
+
+During my studying at NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora ValPaL and Russian Constructicon.
+Moreover, I take part in the student organization that organizes events to popularize science, where students show TED-talk-like performances about their researches, so because of that I have an experience working with people and editing texts.
+
+## Education
+
+**Fundamental and Computational Linguistics**
+NRU HSE, National Research University Higher School of Economics, Bachelor's degree
+*Moscow, Russia, 2020 - Present*
+I have studied both linguistics and coding at an advanced level. I am currently taking an academic leave for personal reasons.
+            
+**Languages and Cultures for Tourism and International Mediation**
+University of Bari "Aldo Moro", Bachelor's degree
+*Bari, Italy, 2022 - Present*
+Now, I am studying a more linguistical-oriented major, and I add side courses in programming. My programme is taught entirely in Italian language, and the foreign languages that I chose are German and Arabic.
