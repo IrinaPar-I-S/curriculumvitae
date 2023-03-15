@@ -4,10 +4,10 @@
 
 I am currently looking for the opportunities to develop in the field I am interested in, which is honestly everything connected to languages and computational linguistics.
 
-I have studied a bachelor's degree at the NRU HSE (higher school of Economics) in Moscow, but I had to interrupt my studies due to personal reasons. During that time I have been studying abroad with "Erasmus+". I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding as a course in machine learning or a course of linguistic data analysis.
-As for now, I am studying at the University of Bari on a programme in language mediation and taking side courses in coding and data analysis.
+I have studied a bachelor's degree at the NRU HSE (Higher School of Economics) in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During that time I have been studying abroad with "Erasmus+". I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding as a course in machine learning or a course of linguistic data analysis.
+As for now, I am studying at the University of Bari "Aldo Moro" in Italy on a programme in language mediation and taking side courses in coding and data analysis.
 
-During my studying at NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora ValPaL and Russian Constructicon.
+During my studying at NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/).
 Moreover, I take part in the student organization that organizes events to popularize science, where students show TED-talk-like performances about their researches, so because of that I have an experience working with people and editing texts.
 
 ## Education
@@ -49,4 +49,5 @@ Now, I am studying a more linguistical-oriented major, and I add side courses in
 ## Contact information
 
 Telephone: +393516193217 
+
 Email: paris0502@mail.ru 
