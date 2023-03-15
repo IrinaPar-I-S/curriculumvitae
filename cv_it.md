@@ -2,15 +2,17 @@
 
 ## Descrizione
 
-I am currently looking for the opportunities to develop in the field I am interested in, which is honestly everything connected to languages and computational linguistics.
+In momento sto cercando le opportunità di crescere nel campo più interesante per me, che comprende, a dir la verità, tutto connesso con le lingue e la linguistica computazionale.
 
-I have been studying a bachelor's degree in Computational Linguistics at the NRU HSE (Higher School of Economics) in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During that time I have studied abroad with Erasmus+ programme. I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding (as a course in machine learning or a course of linguistic data analysis).
-As for now, I am studying at the University of Bari "Aldo Moro" in Italy on a programme in Language Mediation and taking side courses in coding and data analysis.
+Facevo la laurea del primo livello in linguistica computazionale presso URN HSE (Università di Ricerca Nazionale "Higher School of Economics") a Mosca, Russia, ma ho avuto bisogna di interrompere gli studi per le ragioni personali. Durante questo tempo ho fatto parte del programma Erasmus+ a Pavia, dove ho fatto sia corsi completamente linguistici, sia quelli informatici (come, per esempio, Machine Learning o Analisi dei dati linguistici).
+Adesso sto facendo la laurea triennale all'Università degli Studi di Bari "Aldo Moro" in campo della mediazione linguistico-culturale e nel frattempo prendo i corsi aggiuntivi del coding e analisi dei dati..
+
+
 
 During my studying at NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/).
 Moreover, I take part in the student organization that organizes events to popularize science, where students show TED-talk-like performances about their researches, so because of that I have an experience working with people and editing texts.
 
-## Educazione
+## Istruzione
 
 **Fundamental and Computational Linguistics**
 NRU HSE, National Research University Higher School of Economics
