@@ -1,10 +1,2 @@
-# cutticulumvitae
+### Good time of the day! My name is Irina Parshina and here is some information about myself:
 
-::: {align="center" class="column" style="padding-right:3px;"}
-  ::: {.column width="40%"}
-    table ...
-  :::
-  ::: {.column width="60%"}
-    graph ...
-  :::
-:::
