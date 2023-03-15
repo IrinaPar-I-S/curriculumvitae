@@ -40,8 +40,13 @@ Now, I am studying a more linguistical-oriented major, and I add side courses in
 
 ## Languages
 
-• Russian, native 
+• Russian, *native*
             
-• English, advanced (Cambridge certificate C2)
+• English, *advanced (Cambridge certificate C2)*
             
-• Italian, advanced (in the process of receiving a certificate from CELI 4 exam (C1))
+• Italian, *advanced (in the process of receiving a certificate from CELI 4 exam (C1))*
+
+## Contact information
+
+Telephone: +393516193217 
+Email: paris0502@mail.ru 
