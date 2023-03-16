@@ -23,7 +23,9 @@ Laurea del primo livello
 *Mosca, Russia, 2020 - Attuale*
 
 Studiavo sia la linguistica tradizionale che il coding a livello avanzato. In momento ho sospeso i miei studi per motivi personali.
-            
+  
+
+
 **Lingue and Culture per Turismo e Mediazione Internazionale**
 
 Università degli Studi di Bari "Aldo Moro"
