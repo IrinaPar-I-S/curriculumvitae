@@ -14,15 +14,23 @@ Moreover, I take part in the student organization that organizes events to popul
 ## Education
 
 **Fundamental and Computational Linguistics**
+
 NRU HSE, National Research University Higher School of Economics
+
 Bachelor's degree
+
 *Moscow, Russia, 2020 - Present*
+
 I have studied both linguistics and coding at an advanced level. I am currently taking an academic leave for personal reasons.
             
 **Languages and Cultures for Tourism and International Mediation**
+
 University of Bari "Aldo Moro"
+
 Bachelor's degree
+
 *Bari, Italy, 2022 - Present*
+
 Now, I am studying a more linguistical-oriented major, and I add side courses in programming. My programme is taught entirely in Italian language, and the foreign languages that I chose are German and Arabic.
 
 ## Skills
@@ -43,7 +51,7 @@ Now, I am studying a more linguistical-oriented major, and I add side courses in
 
 • Russian, *native*
             
-• English, *advanced (Cambridge certificate C2)*
+• English, *proficient (Cambridge certificate C2)*
             
 • Italian, *advanced (in the process of receiving a certificate from CELI 4 exam (C1))*
 
