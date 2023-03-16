@@ -4,7 +4,7 @@ I have been studying at the NRU HSE (Higher School of Economics) in Moscow, Russ
 
 I am interested in everything connected to languages and computational linguistics, honestly. So that, I am looking for opportunities to develop my skills in this field.
 
-Here is more information about myself: [English](/cv_eng.md), [Italian](/cv_it.md)
+Here is more information about myself: [English](/cv_eng.md), [Italian](/cv_it.md).
 
 You can contact me
 
