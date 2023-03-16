@@ -4,52 +4,60 @@
 
 In momento sto cercando le opportunità di crescere nel campo più interesante per me, che comprende, a dir la verità, tutto connesso con le lingue e la linguistica computazionale.
 
-Facevo la laurea del primo livello in linguistica computazionale presso URN HSE (Università di Ricerca Nazionale "Higher School of Economics") a Mosca, Russia, ma ho avuto bisogna di interrompere gli studi per le ragioni personali. Durante questo tempo ho fatto parte del programma Erasmus+ a Pavia, dove ho fatto sia corsi completamente linguistici, sia quelli informatici (come, per esempio, Machine Learning o Analisi dei dati linguistici).
+Facevo la laurea del primo livello in linguistica computazionale presso URN (Università di Ricerca Nazionale) "Higher School of Economics" a Mosca, Russia, ma ho avuto bisogna di sospendere gli studi per motivi personali. Durante questo tempo ho fatto parte del programma Erasmus+ a Pavia, dove ho fatto sia corsi completamente linguistici, sia quelli informatici (come, per esempio, Machine Learning o Analisi dei dati linguistici).
+
 Adesso sto facendo la laurea triennale all'Università degli Studi di Bari "Aldo Moro" in campo della mediazione linguistico-culturale e nel frattempo prendo i corsi aggiuntivi del coding e analisi dei dati..
 
+Durante i miei studi presso URN HSE ho scritto la tesina annuale sui pronomi in itliano, per la quale, tra l'altro, dovevo 
 
-
-During my studying at NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/).
-Moreover, I take part in the student organization that organizes events to popularize science, where students show TED-talk-like performances about their researches, so because of that I have an experience working with people and editing texts.
+During my studying at NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/). Moreover, I take part in the student organization that organizes events to popularize science, where students show TED-talk-like performances about their researches, so because of that I have an experience working with people and editing texts.
 
 ## Istruzione
 
-**Fundamental and Computational Linguistics**
-NRU HSE, National Research University Higher School of Economics
-Bachelor's degree
-*Moscow, Russia, 2020 - Present*
-I have studied both linguistics and coding at an advanced level. I am currently taking an academic leave for personal reasons.
+**Linguistica Fundamentale e Computazionale**
+
+URN HSE, Università Nazionale di Ricerca "Higher School of Economics"
+
+Laurea del primo livello
+
+*Mosca, Russia, 2020 - Attuale*
+
+Studiavo sia la linguistica tradizionale che il coding a livello avanzato. In momento ho sospeso i miei studi per motivi personali.
             
-**Languages and Cultures for Tourism and International Mediation**
-University of Bari "Aldo Moro"
-Bachelor's degree
-*Bari, Italy, 2022 - Present*
-Now, I am studying a more linguistical-oriented major, and I add side courses in programming. My programme is taught entirely in Italian language, and the foreign languages that I chose are German and Arabic.
+**Lingue and Culture per Turismo e Mediazione Internazionale**
+
+Università degli Studi di Bari "Aldo Moro"
+
+Laurea del primo livello
+
+*Bari, Italia, 2022 - Attuale*
+
+adesso sto studiando la laurea con orientamento più linguistico, ma provo di aggiungere i corsi di programmazione. Le lingue straniere che sto imparando sono il tedesco e l'arabo.
 
 ## Competenze
 
-• Python (mostly, experience with linguistic-related tasks)
+• Python (soprattuto, esperienza con compiti linguistici)
             
-• Linguistical data analysis
+• Analisi dei dati linguistici
             
-• R (basic knowledge)
+• R (conoscenza di base)
             
-• Statistics (basic knowledge)
+• Statistica (conoscenza di base)
             
-• Machine Learning (basic knowledge)
+• Machine Learning (conoscenza di base)
             
-• Text editing skills
+• Competenze in redazione dei testi
 
 ## Lingue
 
-• Russian, *native*
+• Russo, *madrelingua*
             
-• English, *advanced (Cambridge certificate C2)*
+• English, *livello professionale (Cambridge certificate C2)*
             
-• Italian, *advanced (in the process of receiving a certificate from CELI 4 exam (C1))*
+• Italian, *livello avanzato (in processo dell'ottenere il certificato dell'esame di CELI 4 (C1))*
 
 ## Informazioni di contatto
 
-Telephone: +393516193217 
+Telefono: +393516193217 
 
 Email: paris0502@mail.ru 
