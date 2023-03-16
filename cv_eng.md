@@ -9,7 +9,7 @@ I have been studying a bachelor's degree in Computational Linguistics at the NRU
 As for now, I am studying at the University of Bari "Aldo Moro", in Italy, on a programme in Language Mediation and taking side courses in coding and data analysis.
 
 During my studying at the NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/).
-Moreover, I take part in the student organization that sets up events to popularize science, where students show TED-talk-like performances about their researches, so because of that I have an experience working with people and editing texts.
+Moreover, I take part in the student organization that sets up events to popularize science, where students show TED-talk-like performances about their researches, so I have an experience working with people and editing texts.
 
 ---
 
