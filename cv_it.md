@@ -10,6 +10,8 @@ Adesso sto facendo la laurea triennale all'Università degli Studi di Bari "Aldo
 
 Durante i miei studi presso URN HSE ho scritto la tesina annuale sui pronomi in itliano, per la quale, tra l'altro, ho dovuto fare l'analisi automatica dei dati dai corpora. Inoltre, come parte dell'esperienza pratica inclusa in piano dei studi ho lavorato con corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) e [Russian Constructicon](https://constructicon.github.io/russian/about/). Altresì, partecipo nell'organizzazione studentesca che provvede gli eventi per popolarizzare la scienza dove gli studenti fanno le perstazioni del tipo di TED-talk sulle propre ricerche. In consequenza, ho l'esperienza nella redazione dei testi.
 
+---
+
 ## Istruzione
 
 **Linguistica Fundamentale e Computazionale**
@@ -34,6 +36,8 @@ Laurea del primo livello
 
 adesso sto studiando la laurea con orientamento più linguistico, ma provo di aggiungere i corsi di programmazione. Le lingue straniere che sto imparando sono il tedesco e l'arabo.
 
+---
+
 ## Competenze
 
 • Python (soprattuto, esperienza con compiti linguistici)
@@ -48,6 +52,8 @@ adesso sto studiando la laurea con orientamento più linguistico, ma provo di ag
             
 • Competenze in redazione dei testi
 
+---
+
 ## Lingue
 
 • Russo, *madrelingua*
@@ -55,6 +61,8 @@ adesso sto studiando la laurea con orientamento più linguistico, ma provo di ag
 • Inglese, *livello professionale (Cambridge certificate C2)*
             
 • Italiano, *livello avanzato (in processo dell'ottenere il certificato dell'esame di CELI 4 (C1))*
+
+---
 
 ## Informazioni di contatto
 
