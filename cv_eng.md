@@ -2,9 +2,9 @@
 
 ## Objective
 
-I am currently looking for the opportunities to develop in the field I am interested in, which is honestly everything connected to languages and computational linguistics.
+I am currently looking for the opportunities to develop in the field I am interested in, which is (honestly) everything related to languages and computational linguistics.
 
-I have been studying a bachelor's degree in Computational Linguistics at the NRU (National Research University) "Higher School of Economics" in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During that time I have studied abroad with Erasmus+ programme. I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding (as a course in Machine Learning or a course of Linguistic Data Analysis).
+I had been studying a bachelor's degree in Computational Linguistics at the NRU (National Research University) "Higher School of Economics" in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During that time I have studied abroad with the Erasmus+ programme. I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding (as a course in Machine Learning or a course of Linguistic Data Analysis).
 
 As for now, I am studying at the University of Bari "Aldo Moro", in Italy, on a programme in Language Mediation and taking side courses in coding and data analysis.
 
@@ -59,9 +59,9 @@ Now, I am studying a more linguistical-oriented major, and I add side courses in
 
 • Russian, *native*
             
-• English, *proficient (Cambridge certificate C2)*
+• English, *proficient (Cambridge C2 certificate)*
             
-• Italian, *advanced (in the process of receiving a certificate from CELI 4 exam (C1))*
+• Italian, *advanced (in the process of receiving a C1 certificate from CELI 4 exam)*
 
 ---
 
