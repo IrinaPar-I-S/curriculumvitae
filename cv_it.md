@@ -22,7 +22,7 @@ URN HSE, Università Nazionale di Ricerca "Higher School of Economics"
 
 Laurea del primo livello
 
-*Mosca, Russia, 2020 - Attuale*
+*Mosca, Russia, 2020 - 2022 (non finita)*
 
 Studiavo sia la linguistica tradizionale che il coding a livello avanzato. In momento ho sospeso i miei studi per motivi personali.
   
@@ -54,7 +54,7 @@ Adesso sto studiando la laurea con orientamento più linguistico, ma provo di ag
             
 • Competenze in redazione dei testi
 
-• Conoscenze delle glosse linguistiche e esperienza nel markup linguistico.
+• Conoscenze delle glosse linguistiche e esperienza nel markup linguistico
 
 ---
 
