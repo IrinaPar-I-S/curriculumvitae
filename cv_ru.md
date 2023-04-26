@@ -1,29 +1,30 @@
-# Irina Parshina
+# Ирина Паршина
 
-## Objective
+## Описание
 
-I am currently looking for the opportunities to develop in the field I am interested in, which is (honestly) everything related to languages and computational linguistics.
+В данный момент я нахожусь в поиске возможностей развиваться в интересном мне направлении, то есть, честно говоря, во всем, что связано с языками или компьютерной лингвистикой.
 
-I had been studying a bachelor's degree in Computational Linguistics at the NRU (National Research University) "Higher School of Economics" in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During that time I have studied abroad with the Erasmus+ programme. I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding (as a course in Machine Learning or a course of Linguistic Data Analysis).
+Я училась на программе бакалавриата компьютерной лингвистики в НИУ ВШЭ (Национальный Исследовательский Университет "Высшая школа экономики") в Москве, но по личным причинам должна была прервать обучение. За те два года обучения я побывала по программе Erasmus+ в Павии, Италия, где брала как абсолютно лингвистические, так и программистские курсы.
 
-As for now, I am studying at the University of Bari "Aldo Moro", in Italy, on a programme in Language Mediation and taking side courses in coding and data analysis.
+В настоящее время же я учусь в Университете "Aldo Moro" в Бари, Италия, на программе в области иностранных языков и межкультурной коммуникации и беру дополнительные курсы по кодингу и анализу данных.
 
-During my studying at the NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/).
-Moreover, I take part in the student organization that sets up events to popularize science, where students show TED-talk-like performances about their researches, so I have an experience working with people and editing texts.
+Во время моего обучения в НИУ ВШЭ я писала курсовую работу о местоимениях в итальянском языке, для чего было необходимо, среди прочего, автоматически проанализировать корпусные данные. Также в качестве университетской практики я работала с корпусами [ValPaL](https://valpal.info/contributions/russ1263#tverbs), [Russian Constructicon](https://constructicon.github.io/russian/about/) и [Корпус русской речи Карелии](http://lingconlab.ru/karelrus/#!/).
+
+Более того, я участвую в студенческой организации, которая проводит мероприятия для популяризации науки, где студенты показывают небольшие выступления в стиле TED-talk о своих исследованиях, так что у меня есть опыт работы с людьми и с их текстами.
 
 ---
 
-## Education
+## Образование
 
-**Fundamental and Computational Linguistics**
+**Фундаментальная и компьютерная лингвистика**
 
-NRU HSE, National Research University Higher School of Economics
+НИУ ВШЭ, Национальный Исследовательский Университет "Высшая школа экономики"
 
-Bachelor's degree
+Бакалавриат
 
-*Moscow, Russia, 2020 - Present*
+*Москва, Россия, 2020 - 2022 (не окончено)*
 
-I have studied both linguistics and coding at an advanced level. I am currently taking an academic leave for personal reasons.
+Я учила как лингвистику, так и программирование на углубленном уровне. В данный момент я взяла академический отпуск по личным причинам.
 
 ---
 
