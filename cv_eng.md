@@ -4,12 +4,13 @@
 
 I am currently looking for the opportunities to develop in the field I am interested in, which is (honestly) everything related to languages and computational linguistics.
 
-I had been studying a bachelor's degree in Computational Linguistics at the NRU (National Research University) "Higher School of Economics" in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During that time I have studied abroad with the Erasmus+ programme. I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding (as a course in Machine Learning or a course of Linguistic Data Analysis).
+I had been studying a bachelor's degree in Computational Linguistics at the NRU (National Research University) "Higher School of Economics" in Moscow, Russia, but I had to interrupt my studies due to personal reasons. During those two years of studies, I have studied abroad with the Erasmus+ programme. I went to Pavia, Italy, where I took both entirely linguistic courses and those connected to coding (as a course in Machine Learning or a course of Linguistic Data Analysis).
 
-As for now, I am studying at the University of Bari "Aldo Moro", in Italy, on a programme in Language Mediation and taking side courses in coding and data analysis.
+As for now, I am studying at the University of Bari "Aldo Moro", in Italy, on a programme in Language and Cultural Mediation and taking side courses in coding and data analysis.
 
-During my studying at the NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs) and [Russian Constructicon](https://constructicon.github.io/russian/about/).
-Moreover, I take part in the student organization that sets up events to popularize science, where students show TED-talk-like performances about their researches, so I have an experience working with people and editing texts.
+During my studying at the NRU HSE I wrote a course essay about pronouns in Italian language, which required, among other, automatic analysis of corpora data. Furthermore, as a part of practical experience provided by university I was working with corpora [ValPaL](https://valpal.info/contributions/russ1263#tverbs), [Russian Constructicon](https://constructicon.github.io/russian/about/) and [Corpus of Karelian Russian](http://lingconlab.ru/karelrus/#!/).
+
+Moreover, I take part in the student organization that sets up events to popularize science, where students show TED-talk-like performances about their researches, so I have some experience working with people and editing their texts.
 
 ---
 
@@ -21,7 +22,7 @@ NRU HSE, National Research University Higher School of Economics
 
 Bachelor's degree
 
-*Moscow, Russia, 2020 - Present*
+*Moscow, Russia, 2020 - 2022 (not finished)*
 
 I have studied both linguistics and coding at an advanced level. I am currently taking an academic leave for personal reasons.
 
@@ -51,7 +52,7 @@ Now, I am studying a more linguistical-oriented major, and I add side courses in
             
 • Text editing skills
 
-• Rnowledge of linguistic glosses and experience with different kinds of linguistical data marking
+• Knowledge of linguistical glosses and experience with different kinds of linguistical data marking
 
 ---
 
