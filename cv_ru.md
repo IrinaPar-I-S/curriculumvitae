@@ -28,15 +28,15 @@
 
 ---
 
-**Languages and Cultures for Tourism and International Mediation**
+**иностранные языки и межкультурная коммуникация (Languages and Cultures for Tourism and International Mediation)**
 
-University of Bari "Aldo Moro"
+Университет Бари "Aldo Moro"
 
-Bachelor's degree
+Бакалавриат
 
-*Bari, Italy, 2022 - Present*
+*Бари, Италия, 2022 - настоящее время*
 
-Now, I am studying a more linguistical-oriented major, and I add side courses in programming. My programme is taught entirely in Italian language, and the foreign languages that I chose are German and Arabic.
+Сейчас я учусь на более лингвистически ориентированной программе, и стараюсь добавлять себе курсы в программировании по возможности. Моя программма идет полностью на итальянском языке, и как иностранные языки я изучаю немецкий и арабский.
 
 ---
 
