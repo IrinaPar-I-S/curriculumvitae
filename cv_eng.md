@@ -47,11 +47,11 @@ Now, I am studying a more linguistical-oriented major, and I add side courses in
             
 • R (basic knowledge)
             
-• Statistics (basic knowledge)
-            
 • Machine Learning (basic knowledge)
             
 • Text editing skills
+
+• Rnowledge of linguistic glosses and experience with different kinds of linguistical data marking
 
 ---
 
